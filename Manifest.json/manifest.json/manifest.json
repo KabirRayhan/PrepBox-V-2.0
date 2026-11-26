@@ -1,0 +1,20 @@
+{
+  "name": "PrepBox BD — বিসিএস, ব্যাংক ও প্রাইমারি প্রস্তুতি",
+  "short_name": "PrepBox BD",
+  "description": "বিসিএস, ব্যাংক ও প্রাইমারি চাকরির পূর্ণাঙ্গ প্রিলি, রিটেন, ভোকাব, ভাইভা ও লাইভ মডেল টেস্ট প্ল্যাটফর্ম।",
+  "lang": "bn",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
